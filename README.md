@@ -1,4 +1,4 @@
-# Bank Marketing — Term Deposit Subscription Prediction
+# Bank Marketing: Term Deposit Subscription Prediction
 
 Final project for Artificial Intelligence II. The goal is to predict whether a customer will subscribe to a term deposit based on data from a Portuguese bank's direct marketing campaigns.
 
